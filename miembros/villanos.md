@@ -5,3 +5,7 @@
 3. Favorito
 4. Netanyahu
 5. Trump
+
+# Notas
+
+Un 9
