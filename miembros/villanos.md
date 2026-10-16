@@ -5,6 +5,7 @@
 3. Favorito
 4. Netanyahu
 5. Trump
+6. Putin
 
 # Notas
 
