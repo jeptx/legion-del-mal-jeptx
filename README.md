@@ -1,5 +1,13 @@
 # 🦹‍♂️ La Legión del Mal
 
+![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/jeptx/legion-del-mal-jeptx/ci.yml)
+![Release](https://img.shields.io/github/v/release/jeptx/legion-del-mal-jeptx)
+![Issues](https://img.shields.io/github/issues/jeptx/legion-del-mal-jeptx)
+![Último commit](https://img.shields.io/github/last-commit/jeptx/legion-del-mal-jeptx)
+![Licencia](https://img.shields.io/github/license/jeptx/legion-del-mal-jeptx)
+
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
