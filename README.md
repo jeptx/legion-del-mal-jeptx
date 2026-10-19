@@ -1,4 +1,4 @@
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal - Desde Remoto
 
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
 
