@@ -1,5 +1,7 @@
 # 🦹‍♂️ La Legión del Mal - Desde local
 
+## Grupo dedicado a aprender Git + Github
+
 ![Estático](https://img.shields.io/badge/Legion--del--mal-Activa-green)
 
 ![Workflow](https://img.shields.io/github/actions/workflow/status/jeptx/legion-del-mal-jeptx/ci.yml)
