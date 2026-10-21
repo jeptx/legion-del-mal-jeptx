@@ -2,7 +2,7 @@
 name: Template para bugs de software
 about: Ayúdanos a mejorar
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, upgrade software
 assignees: jeptx
 
 ---
